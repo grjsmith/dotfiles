@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/grjsmith/dotfiles">
-    <img src="images/grants_dotfiles.png" alt="screenshot of desktop with terminal config" width="800" height="600">
+    <img src="images/grants_dotfiles.png" alt="screenshot of desktop with terminal config" width="800">
   </a>
 
 <h1 align="center">clean-text-and-graphs-for-rainmeter</h1>
