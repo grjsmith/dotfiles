@@ -16,17 +16,17 @@
     <img src="images/grants_dotfiles.png" alt="screenshot of desktop with terminal config" width="800">
   </a>
 
-<h1 align="center">clean-text-and-graphs-for-rainmeter</h1>
+<h1 align="center">Grant's dotfiles</h1>
 
   <p align="center">
-    Clean system monitors for rainmeters where vertical space is a premium.
+    My Linux customisations.
     <br />
-    <a href="https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/grjsmith/dotfiles"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter/issues">Report Bug</a>
+    <a href="https://github.com/grjsmith/dotfiles/issues">Report Bug</a>
     ·
-    <a href="https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter/issues">Request Feature</a>
+    <a href="https://github.com/grjsmith/dotfiles/issues">Request Feature</a>
   </p>
 </div>
 
@@ -60,35 +60,28 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The concept is simple. I like system monitors in Rainmeter. I have a large 21:9 monitor so I can spare a little screenspace at the top of my display. So I wanted reasonably feature rich system monitors that occupied a small amount of vertical space but could use as much horizontal space as needed.
+These are my dotfiles. I'm saving them here so I don't have to customise them again when I rebuild my laptop and so I can synchronise them across multiple machines.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
-* [Rainmeter](https://www.rainmeter.net/)
-* [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
-* [MSI Afterburner DLL](https://forums.guru3d.com/threads/rainmeter-plugin-for-msi-afterburner.319558/)
+* [LSCOLORS](https://github.com/sharkdp/lscolors)
+* [LSD](https://github.com/lsd-rs/lsd)
+* [Nerd Fonts, Cousine](https://github.com/ryanoasis/nerd-fonts)
+* [Neofetch](https://github.com/dylanaraps/neofetch)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
 ### Prerequisites
 
-* Download Rainmeter from [https://www.rainmeter.net/](https://www.rainmeter.net/)
-* Download the skins from [my S3 bucket](https://entropybit.s3.eu-west-1.amazonaws.com/clean+text+and+graphs_1.0.rmskin)
-* Download [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
-* Download the [MSI Afterburner DLL](https://forums.guru3d.com/threads/rainmeter-plugin-for-msi-afterburner.319558/) that's right for your system
+* [On Windows install WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
+* Download Debian from the Microsoft Store
+
 ### Installation
-* Install Rainmeter, [following the excellent documentation if you need it](https://docs.rainmeter.net/manual/installing-rainmeter/)
-* Install MSI Afterburner you don't ever need to look at it, it just needs to be running.
-* Follow instructions on the [Guru3d forum](https://forums.guru3d.com/threads/rainmeter-plugin-for-msi-afterburner.319558/) to get the G-GPU skin working.
-You will need to provide Administrator permissions in order to copy the file to the correct location:
-```
-C:\Program Files\Rainmeter\Plugins
-```
+* Download the files and folders from the Github repo to ~/HOME
+* Profit?
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -104,9 +97,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- I'd love to add a weather widget but everytime I do the APIs change and I haven't found one that seems stable.
+Still working on Gotop config
+Tempted to figure out the Terminal weather app.
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/grjsmith/dotfiles/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -138,7 +132,7 @@ Don't forget to give the project a star! Thanks again!
 
 Grant Smith - [@grjsmith](https://twitter.com/grjsmith) - grant@nextgendevops.com
 
-Project Link: [https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter](https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter)
+Project Link: [https://github.com/grjsmith/dotfiles](https://github.com/grjsmith/dotfiles)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
