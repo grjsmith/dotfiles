@@ -114,7 +114,7 @@ fi
 . "$HOME/.cargo/env"
 
 
-source ~/.dir_colors/lscolors.sh
+source ~/.dircolors/lscolors.sh
 alias chrome='"/mnt/c/Program Files/Google/Chrome/Application/Chrome.exe"'
 alias github='"/mnt/c/Users/Grant/AppData/Local/GitHubDesktop/GitHubDesktop.exe"'
 alias slack='slack.exe'

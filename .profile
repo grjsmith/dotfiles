@@ -25,7 +25,6 @@ fi
 if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
 fi
-. "$HOME/.cargo/env"
 
 PATH="/mnt/c/Program Files/Mozilla Firefox":"/mnt/c/Program Files/Google/Chrome/Application/":"/mnt/c/Users/Grant/AppData/Local/Programs/Notion":"/mnt/c/Users/Grant/AppData/Local/slack":$PATH
 
