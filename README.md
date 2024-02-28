@@ -69,6 +69,7 @@ These are my dotfiles. I'm saving them here so I don't have to customise them ag
 * [LSD](https://github.com/lsd-rs/lsd)
 * [Nerd Fonts, Cousine](https://github.com/ryanoasis/nerd-fonts)
 * [Neofetch](https://github.com/dylanaraps/neofetch)
+* [Fish shell](https://fishshell.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -78,6 +79,11 @@ These are my dotfiles. I'm saving them here so I don't have to customise them ag
 
 * [On Windows install WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 * Download Debian from the Microsoft Store
+* Install LSCOLORS, LSD, Nerd Fonts, Cousine, Neofetch and Fish
+* To set fish as the default shell run the command:
+```
+chsh -s /usr/bin/fish
+```
 
 ### Installation
 * Download the files and folders from the Github repo to ~/HOME
