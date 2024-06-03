@@ -85,6 +85,21 @@ These are my dotfiles. I'm saving them here so I don't have to customise them ag
 chsh -s /usr/bin/fish
 ```
 
+#### Windows Terminal Configuration
+
+**Colors**
+Screen text:
+
+* Red: 13
+* Green: 2
+* Blue: 33
+
+Screen Background:
+
+* Red: 45
+* Green: 226
+* Blue: 230
+
 ### Installation
 * Download the files and folders from the Github repo to ~/HOME
 * Profit?
