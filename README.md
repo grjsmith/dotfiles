@@ -80,6 +80,7 @@ These are my dotfiles. I'm saving them here so I don't have to customise them ag
 * [On Windows install WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 * Download Debian from the Microsoft Store
 * Install LSCOLORS, LSD, Nerd Fonts, Cousine, Neofetch and Fish
+* Set the terminal font to Cousine Nerd Font Mono. Note Windows terminal can take some convincing to use the font. You'll know it's working when 'lsd -al' shows folder icons
 * To set fish as the default shell run the command:
 ```
 chsh -s /usr/bin/fish
@@ -96,9 +97,7 @@ Screen text:
 
 Screen Background:
 
-* Red: 45
-* Green: 226
-* Blue: 230
+* #262335
 
 ### Installation
 * Download the files and folders from the Github repo to ~/HOME
