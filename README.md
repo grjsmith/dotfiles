@@ -91,9 +91,7 @@ chsh -s /usr/bin/fish
 **Colors**
 Screen text:
 
-* Red: 13
-* Green: 2
-* Blue: 33
+* #2DE2E6
 
 Screen Background:
 
@@ -117,8 +115,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-Still working on Gotop config
-Tempted to figure out the Terminal weather app.
+* Still working on Btop config
 
 See the [open issues](https://github.com/grjsmith/dotfiles/issues) for a full list of proposed features (and known issues).
 
