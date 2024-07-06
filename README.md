@@ -75,7 +75,7 @@ These are my dotfiles. I'm saving them here so I don't have to customise them ag
 
 <!-- GETTING STARTED -->
 ## Getting Started
-### Prerequisites
+### Installation
 
 * [On Windows install WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 * Download Debian from the Microsoft Store
