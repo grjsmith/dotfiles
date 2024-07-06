@@ -85,6 +85,15 @@ These are my dotfiles. I'm saving them here so I don't have to customise them ag
 ```
 chsh -s /usr/bin/fish
 ```
+* For Linux (Mint) on my old Macbook Pro
+```
+.config/lsd/themes/custom.yaml
+```
+Has been copied to
+```
+.config/lsd/colors.yaml
+```
+This isn't necessary on WSL Debian for some reason.
 
 #### Windows Terminal Configuration
 
