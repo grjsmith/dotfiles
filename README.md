@@ -102,6 +102,7 @@ Screen Background:
 * Profit?
 
 ### Notes
+#### Linux
 To make this work  onLinux (Mint) on my old Macbook Pro
 ```
 .config/lsd/themes/custom.yaml
@@ -111,6 +112,9 @@ Has been copied to
 .config/lsd/colors.yaml
 ```
 This isn't necessary on WSL Debian for some reason. Although the instructions imply it's necessary everywhere.
+#### Windows
+* Tested on Windows 10 and 11
+* Tested on Debian 11 and 12
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
