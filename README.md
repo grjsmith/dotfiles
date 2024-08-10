@@ -117,8 +117,9 @@ Has been copied to
 ```
 This isn't necessary on WSL Debian for some reason. Although the instructions imply it's necessary everywhere.
 #### Windows
-* Tested on Windows 10 and 11
-* Tested on Debian 11 and 12
+* Tested on Windows 10 and 11 with Debian 11 and 12 running on WSL
+* Tested on Linux Mint 22 (Wilma)
+* Tested on Linux Debian 12 (Bookworm)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
