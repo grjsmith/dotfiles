@@ -107,7 +107,7 @@ Screen Background:
 
 ### Notes
 #### Linux
-To make this work  onLinux (Mint) on my old Macbook Pro
+To make this work  on Linux (Mint) on my old Macbook Pro
 ```
 .config/lsd/themes/custom.yaml
 ```
@@ -115,11 +115,12 @@ Has been copied to
 ```
 .config/lsd/colors.yaml
 ```
-This isn't necessary on WSL Debian for some reason. Although the instructions imply it's necessary everywhere.
-#### Windows
-* Tested on Windows 10 and 11 with Debian 11 and 12 running on WSL
-* Tested on Linux Mint 22 (Wilma)
-* Tested on Linux Debian 12 (Bookworm)
+This isn't necessary on WSL Debian or native Debian 12. Although the instructions imply it's necessary everywhere.
+
+#### Tested on:
+* Windows 10 and 11 with Debian 11 and 12 running on WSL
+* Linux Mint 22 (Wilma)
+* Linux Debian 12 (Bookworm)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
