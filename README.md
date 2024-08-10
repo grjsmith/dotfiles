@@ -81,6 +81,7 @@ These are my dotfiles. I'm saving them here so I don't have to customise them ag
 * Download Debian from the Microsoft Store
 * Install LSCOLORS, LSD, Nerd Fonts, Cousine, Neofetch and Fish
 * Set the terminal font to Cousine Nerd Font Mono. Note Windows terminal can take some convincing to use the font. You'll know it's working when 'lsd -al' shows folder icons
+* On Linux install the Courine Nerd Fonts with the following command:
 ```
 cd ~/.local/share/fonts && curl -fLO https://github.com/ryanoasis/nerd-fonts/raw/HEAD/patched-fonts/Cousine/Regular/CousineNerdFont-Regular.ttf
 ```
